@@ -1,7 +1,5 @@
 # Headless Implementation of CARFF NeRF Decoder
 
-###  [Google Colab Link](https://colab.research.google.com/drive/1RXhPuTwk95aHSwzg5EatcDFusYtepoy6?usp=sharing)
-
 This folder is the headless CARFF NeRF decoder implementation based on the pytorch implementation of [instant-ngp](https://github.com/NVlabs/instant-ngp), as described in [_Instant Neural Graphics Primitives with a Multiresolution Hash Encoding_](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf).
 
 
